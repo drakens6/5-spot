@@ -17,7 +17,7 @@
     "@shoutem/ui": "^0.23.20",
     "@unimodules/core": "^2.0.1",
     "@unimodules/react-native-adapter": "^2.0.1",
-    "expo": "^31.0.2",
+    "expo": "^46.0.14",
     "expo-av": "^5.0.2",
     "expo-video-player": "^1.2.0",
     "galio-framework": "^0.5.1",
